@@ -29,5 +29,17 @@
     "eslint-plugin-import": "2.x",
     "husky": "5.0.9",
     "lint-staged": "10.5.4"
+  },
+  "author": {
+    "name": "IUDX Software Team",
+    "email": "naveenvicky770@gmail.com",
+    "url": "iudx.org.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/{your-username}/{your-repository}"
+  },
+  "bugs": {
+    "url": "https://github.com/{your-username}/{your-repository}/issues"
   }
 }
