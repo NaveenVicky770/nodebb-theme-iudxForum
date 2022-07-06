@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-theme-iudxForum",
+  "name": "@naveenvicky770/nodebb-theme-iudxforum",
   "version": "0.1.0",
   "description": "Enter a description here",
   "main": "theme.less",
@@ -30,16 +30,19 @@
     "husky": "5.0.9",
     "lint-staged": "10.5.4"
   },
-  "author": {
-    "name": "IUDX Software Team",
-    "email": "naveenvicky770@gmail.com",
-    "url": "iudx.org.in"
-  },
+  "author": "IUDX Software Team <naveenvicky770@gmail.com> (iudx.org.in)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/{your-username}/{your-repository}"
+    "url": "git+https://github.com/NaveenVicky770/nodebb-theme-iudxForum.git"
   },
   "bugs": {
-    "url": "https://github.com/{your-username}/{your-repository}/issues"
+    "url": "https://github.com/NaveenVicky770/nodebb-theme-iudxForum/issues"
+  },
+  "homepage": "https://github.com/NaveenVicky770/nodebb-theme-iudxForum#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
