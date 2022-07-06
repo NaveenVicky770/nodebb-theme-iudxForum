@@ -1,5 +1,5 @@
 {
-  "name": "@naveenvicky770/nodebb-theme-iudxforum",
+  "name": "nodebb-theme-iudxforum",
   "version": "0.1.0",
   "description": "Enter a description here",
   "main": "theme.less",
