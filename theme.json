@@ -1,7 +1,7 @@
 {
     "id": "nodebb-theme-iudxForum",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart",
+    "name": "IUDX Forum Theme",
+    "description": "This theme is custom made for IUDX Community Forum",
+    "url": "https://github.com/NaveenVicky770/nodebb-theme-iudxForum",
     "screenshot": "screenshot.png"
 }
